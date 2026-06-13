@@ -1,6 +1,10 @@
 # 🛍️ Retail Customer Behavior Analytics
 
-> Analyzing 3,900 retail transactions to uncover purchasing trends, customer segments, and actionable marketing strategies — using Python, PostgreSQL, and Power BI.
+<img width="1037" height="560" alt="image" src="https://github.com/user-attachments/assets/dccd1855-ca18-4f03-bded-5c04fcb56dcd" />
+
+
+
+> **Analyzing 3,900 retail transactions to uncover purchasing trends, customer segments, and actionable marketing strategies — using Python, PostgreSQL, and Power BI.**
 
 ---
 
